@@ -1,0 +1,26 @@
+{
+  "name": "mapd-713-assignment1",
+  "version": "1.0.0",
+  "description": "THis is my first assignment of MAPD 713 subject",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Samir Patel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.18.1",
+    "seneca": "2.0.0",
+    "seneca-entity": "^1.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampatelstudy/713_assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sampatelstudy/713_assignment/issues"
+  },
+  "homepage": "https://github.com/sampatelstudy/713_assignment#readme"
+}
